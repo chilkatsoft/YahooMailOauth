@@ -1,0 +1,10 @@
+C:\ckGitHubProjects\YahooMailOauth2\bin\Debug\YahooMailOauth2.exe.config
+C:\ckGitHubProjects\YahooMailOauth2\bin\Debug\YahooMailOauth2.exe
+C:\ckGitHubProjects\YahooMailOauth2\bin\Debug\YahooMailOauth2.pdb
+C:\ckGitHubProjects\YahooMailOauth2\bin\Debug\ChilkatDotNet45.dll
+C:\ckGitHubProjects\YahooMailOauth2\obj\Debug\YahooMailOauth2.csprojResolveAssemblyReference.cache
+C:\ckGitHubProjects\YahooMailOauth2\obj\Debug\YahooMailOauth2.Form1.resources
+C:\ckGitHubProjects\YahooMailOauth2\obj\Debug\YahooMailOauth2.Properties.Resources.resources
+C:\ckGitHubProjects\YahooMailOauth2\obj\Debug\YahooMailOauth2.csproj.GenerateResource.Cache
+C:\ckGitHubProjects\YahooMailOauth2\obj\Debug\YahooMailOauth2.exe
+C:\ckGitHubProjects\YahooMailOauth2\obj\Debug\YahooMailOauth2.pdb
